@@ -9,7 +9,7 @@ and energy efficiency. Knowledgeable in EV architecture, components, including b
 
 Technical Skills: CAD (SolidWorks, CATIA), Automotive Design Principles, Materials Selection, Manufacturing Processes, Electric Vehicle Architecture, Battery Systems, Power Electronics.
 
-Software: SolidWorks, CATIA, AutoCAD, Microsoft Office Suite.
+Software: SolidWorks, CATIA.
 
 Note: The upload files clarifies that the design files are in CAT format, viewable in CATIA software.
 
